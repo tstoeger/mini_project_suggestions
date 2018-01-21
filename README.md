@@ -1,5 +1,9 @@
 # mini_project_suggestions
-Workbooks to start small data science projects
+Workbooks to start small data science projects.
+
+Analysis is based on python 3.6. 
+
+For a setup guide visit www.data-science-nights.org
 
 ## crime_and_cancer
 - Use data of Chicago's health reports to investigate their mutual relations.
